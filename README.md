@@ -1,12 +1,15 @@
 # Harry is waiting
 
-<img src="./assets/logo.png" width="100%" height="auto" />
+<div style="display:flex">
+  <img src="./assets/big_logo.png" width="50%" height="auto" />
+  <img src="./assets/cat_0.jpg" width="50%" height="auto" />
+</div>
 
 ```
   The passion for life lifts me up, and the passion for learning does not put me to sleep.
 ```
 
-<p>Welcome to my page! </br> I'm Harry, Full-stack Software Developer from <img src="https://cdn-icons-png.flaticon.com/512/4824/4824903.png" width="13"/> <b>Hamilton, ON, Canada</b>
+<p>Welcome to my page! </br> I'm Harry, Full-stack Software Developer from <img src="https://cdn-icons-png.flaticon.com/512/4824/4824903.png" width="13"/> <b>Canada</b>
 
 ## Things I code with
 
@@ -160,3 +163,6 @@ Please feel free to clone/fork projects, raise issues and submit PRs if you thin
 Ask me anything here or email me [hryschiller](http://hryschiller@gmail.com)
 
 ***Created by [WaitingWittyKitty](https://github.com/waitingwittykitty) with 💝!***
+
+<img src="./assets/cat_1.jpg" width="50%" height="auto" />
+<img src="./assets/logo.png" width="50%" height="auto" />

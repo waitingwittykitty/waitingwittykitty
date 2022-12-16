@@ -1,9 +1,9 @@
 # Harry is waiting
 
-<div style="display:flex">
-  <img src="./assets/big_logo.png" width="50%" height="auto" />
-  <img src="./assets/cat_0.jpg" width="50%" height="auto" />
-</div>
+<p float="left">
+  <img align=top src="./assets/big_logo.png" width="49%" height="auto" />
+  <img align=top src="./assets/cat_0.jpg" width="49%" height="auto" />
+</p>
 
 ```
   The passion for life lifts me up, and the passion for learning does not put me to sleep.

@@ -1,8 +1,8 @@
 # Harry is waiting
 
-<div style="display:flex">
-  <img src="./assets/big_logo.png" width="50%" height="auto" />
-  <img src="./assets/cat_0.jpg" width="50%" height="auto" />
+<div>
+  <img align=top src="./assets/big_logo.png" width="50%" height="auto" />
+  <img align=top src="./assets/cat_0.jpg" width="50%" height="auto" />
 </div>
 
 ```

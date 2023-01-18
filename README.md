@@ -9,7 +9,7 @@
   The passion for life lifts me up, and the passion for learning does not put me to sleep.
 ```
 
-<p>Welcome to my page! </br> I'm Harry, Full-stack Software Developer from <img src="https://cdn-icons-png.flaticon.com/512/4824/4824903.png" width="13"/> <b>Canada</b>
+<p>Welcome to my page! </br> I'm Harry, Full-stack Software Developer and Tech Enthusiast
 
 ## Things I code with
 

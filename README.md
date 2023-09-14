@@ -1,4 +1,4 @@
-# Harry is waiting
+# Waiting Witty Kitty
 
 <p float="left">
   <img align=top src="./assets/big_logo.png" width="49%" height="auto" />
@@ -6,10 +6,10 @@
 </p>
 
 ```
-  The passion for life lifts me up, and the passion for learning does not put me to sleep.
+  The pursuit of knowledge and the zest for life constantly invigorate me, ensuring that I remain engaged and motivated.
 ```
 
-<p>Welcome to my page! </br> I'm Harry, Full-stack Software Developer and Tech Enthusiast
+<p>Welcome to my page! </br> As a full-stack software developer and tech enthusiast, I'm absolutely thrilled to get to know you!
 
 ## Things I code with
 
@@ -144,15 +144,8 @@
 ## Where to find me
 
 <p>
-<a href="https://github.com/waitingwittykitty" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a>
-<a href="https://stackoverflow.com/users/20005802/harry-schiller" target="_blank"><img alt="Stackoverflow" src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" /></a>
-<a href="https://www.xing.com/profile/Harry_Schiller2/cv" target="_blank"><img alt="Xing" src="https://img.shields.io/badge/xing-%23006567.svg?style=for-the-badge&logo=xing&logoColor=white" /></a>
-<a href="https://www.hackerrank.com/hryschiller" target="_blank"><img alt="Xing" src="https://img.shields.io/badge/HackerRank-00EA64?logo=hackerrank&logoColor=000&style=for-the-badge" /></a>
-<a href="https://discordapp.com/users/Schilosaurus#4824" target="_blank"><img alt="Discord" src="https://img.shields.io/badge/Discord-5865F2?logo=discord&logoColor=fff&style=for-the-badge" /></a>
-<a href="https://t.me/hryschiller" target="_blank"><img alt="Telegram" src="https://img.shields.io/badge/Telegram-26A5E4?logo=telegram&logoColor=fff&style=for-the-badge" /></a>
-<a href="skype:live:.cid.64d7031ffc520d63?chat" target="_blank"><img alt="Skype" src="https://img.shields.io/badge/Skype-00AFF0?logo=skype&logoColor=fff&style=for-the-badge" /></a>
 <a href="https://gitter.im/waitingwittykitty" target="_blank"><img alt="Gitter" src="https://img.shields.io/badge/Gitter-ED1965?logo=gitter&logoColor=fff&style=for-the-badge" /></a>
-<a href="mailto:waitingwittykitty@gmail.com?subject=Feedback%20From%20Github&body=Hello," target="_blank">
+<a href="mailto:codingtoenjoy@gmail.com?subject=Feedback%20From%20Github&body=Hello," target="_blank">
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="email"/>
 </a>
 </p>
@@ -160,7 +153,7 @@
 ---
 
 Please feel free to clone/fork projects, raise issues and submit PRs if you think something could be better.
-Ask me anything here or email me [hryschiller](http://hryschiller@gmail.com)
+Ask me anything here or email me [codingtoenjoy](http://codingtoenjoy@gmail.com)
 
 ***Created by [WaitingWittyKitty](https://github.com/waitingwittykitty) with 💝!***
 

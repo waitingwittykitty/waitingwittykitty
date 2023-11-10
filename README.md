@@ -5,8 +5,7 @@
 </p>
 
 ```
-  The pursuit of knowledge and the zest for life constantly invigorate me,
-  ensuring that I remain engaged and motivated.
+  Fuel your passion, let it drive you far
 ```
 
 <p>Welcome to my page! </br> As a full-stack software developer and tech enthusiast, I'm absolutely thrilled to get to know you!

@@ -1,4 +1,4 @@
-# Waiting Witty Kitty
+# Mukhtar Kabir
 
 <p float="left">
   <img align=top src="./assets/cat_0.jpg" width="49%" height="auto" />
@@ -144,7 +144,7 @@
 
 <p>
 <a href="https://gitter.im/waitingwittykitty" target="_blank"><img alt="Gitter" src="https://img.shields.io/badge/Gitter-ED1965?logo=gitter&logoColor=fff&style=for-the-badge" /></a>
-<a href="mailto:codingtoenjoy@gmail.com?subject=Feedback%20From%20Github&body=Hello," target="_blank">
+<a href="mailto:ronaldblueworld@gmail.com?subject=Feedback%20From%20Github&body=Hello," target="_blank">
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="email"/>
 </a>
 </p>
@@ -152,7 +152,7 @@
 ---
 
 Please feel free to clone/fork projects, raise issues and submit PRs if you think something could be better.
-Ask me anything here or email me [codingtoenjoy](http://codingtoenjoy@gmail.com)
+Ask me anything here or email me [ronaldblueworld](http://ronaldblueworld@gmail.com)
 
 ***Created by [WaitingWittyKitty](https://github.com/waitingwittykitty) with 💝!***
 
